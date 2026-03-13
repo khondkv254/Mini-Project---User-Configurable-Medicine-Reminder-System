@@ -78,43 +78,37 @@
         Custom LCD characters
     
     2. Normal Operation Mode
-    
         The system continuously displays the current time and date on the LCD using RTC.
         If no medicine schedule exists, the system behaves as a digital clock.
     
     3. Configuration Mode
-    
         Pressing Switch 1 (EINT0) enters the configuration menu.
         Menu options include:
         Edit RTC
         Medicine Setup
     
     4. RTC Editing
-    
-    Users can configure:
-        Hour
-        Minute
-        Second
-        Date
-        Month
-        Year
-        Weekday
-    These values are stored in RTC registers.
-    
+        Users can configure:
+                Hour
+                Minute
+                Second
+                Date
+                Month
+                Year
+                Weekday
+                These values are stored in RTC registers.
+            
     5. Medicine Schedule Setup
-    
         Users can configure up to three medicine reminders.
         Each reminder includes:
-            Hour
-            Minute
-        These schedules are stored in controller memory.
+                Hour
+                Minute
+                These schedules are stored in controller memory.
     
     6. Continuous Monitoring
-    
         The system continuously compares RTC time with stored medicine schedules.
     
     7. Alert Generation
-    
         When a scheduled medicine time occurs:
         LCD displays "TAKE MEDICINE"
         Buzzer generates alert sound
@@ -122,22 +116,19 @@
         Reminder repeats periodically
     
     8. User Acknowledgment
-    
         User presses Switch 2 (EINT1) to acknowledge.
         System response:
-        Buzzer stops
-        LCD displays
-        MEDICINE TAKEN
-        STAY HEALTHY
+                Buzzer stops
+                LCD displays
+                MEDICINE TAKEN
+                STAY HEALTHY
         
-    9. Timeout Handling
-    
+    9. Timeout Handling    
         If the user does not acknowledge the alert within a certain period:
         Buzzer stops automatically
         System returns to monitoring mode
     
-    10. Continuous Operation
-    
+    10. Continuous Operation    
         The system continues monitoring RTC time for the next scheduled reminder.
         Keypad Navigation
 
