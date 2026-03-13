@@ -3,13 +3,13 @@ Designed and implemented a User-Configurable Medicine Reminder System using the 
 
 ****PROJECT OVERVIEW****
 
-The User-Configurable Medicine Reminder System is designed to help patients remember their medication schedule. The system uses an RTC module to track real-time and compares it with user-defined medicine schedules.
-When the scheduled time matches the current RTC time:
-LCD displays reminder message
-Buzzer generates alert sound
-LED indicator activates
-User acknowledges the reminder using a switch
-This system is useful for home healthcare monitoring and elderly assistance.
+    The User-Configurable Medicine Reminder System is designed to help patients remember their medication schedule. The system uses an RTC module to track real-  time and compares it with user-defined medicine schedules.
+    When the scheduled time matches the current RTC time:
+    LCD displays reminder message
+    Buzzer generates alert sound
+    LED indicator activates
+    User acknowledges the reminder using a switch
+    This system is useful for home healthcare monitoring and elderly assistance.
 
 ****FEATURES****
 
