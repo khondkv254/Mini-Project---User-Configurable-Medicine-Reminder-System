@@ -11,7 +11,7 @@ LED indicator activates
 User acknowledges the reminder using a switch
 This system is useful for home healthcare monitoring and elderly assistance.
 
-**Features**
+****FEATURES****
 
 Real-Time Clock display on LCD
 Menu-driven user interface
@@ -23,7 +23,7 @@ LCD notification messages
 User acknowledgment using external interrupt
 Automatic return to monitoring mode
 
-**Hardware Components**
+****HARDWARE COMPONENTS****
 
 LPC2148 ARM7 Microcontroller
 16x2 LCD Display
@@ -35,7 +35,7 @@ CMOS Battery (RTC backup)
 Crystal Oscillator (12 MHz)
 USB-UART Converter / Serial Cable
 
-**Software Tools**
+****SOFTWARE TOOLS****
 
 Keil uVision IDE
 Embedded C Programming
@@ -43,7 +43,7 @@ Flash Magic (for program upload)
 Proteus (optional simulation)
 LPC2148 Peripheral Libraries
 
-**System Architecture**
+****SYSTEM ARCHITECTURE****
 
 The system consists of the following modules:
 1.RTC Module
@@ -65,7 +65,7 @@ Continuously compares current time with stored medicine schedules.
 Triggers buzzer and displays reminder message when the scheduled time occurs.
 
 
-**Project Workflow / Methodology**
+**PROJECT METHODOLOGY**
 1. System Initialization
 
 The system initializes all required peripherals:
@@ -141,7 +141,7 @@ System returns to monitoring mode
 The system continues monitoring RTC time for the next scheduled reminder.
 Keypad Navigation
 
-**Key	Function**
+**KEY FUNCTION**
 (*)	Increase value / Move forward
 (4)	Decrease value
 (/)	Move to next parameter
@@ -156,7 +156,7 @@ Press / to move to next field
 Press = to save settings
 
 
-**Technical Skills Demonstrated**
+**TECHNICALL SKILL DEMONSTRATION**
 
 Embedded C Programming
 ARM7 LPC2148 Microcontroller
@@ -168,7 +168,7 @@ Menu-driven Embedded UI
 Alarm and Reminder System Design
 Time-based Event Monitoring
 
-**Applications**
+**APPLICATION**
 
 Personal medication reminder
 Home healthcare systems
