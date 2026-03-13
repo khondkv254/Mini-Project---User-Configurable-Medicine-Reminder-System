@@ -131,7 +131,6 @@
     10. Continuous Operation    
         The system continues monitoring RTC time for the next scheduled reminder.
         Keypad Navigation
-**BLOCK DAIGRAM**
         
 **KEY FUNCTION**
 
