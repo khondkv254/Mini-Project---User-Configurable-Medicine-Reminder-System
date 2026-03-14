@@ -12,6 +12,17 @@
         LED indicator activates
         User acknowledges the reminder using a switch
         This system is useful for home healthcare monitoring and elderly assistance.
+        
+        
+****BLOCK DAIGRAM****
+
+![Block Diagram](images/block_diagram.png)
+
+
+****PROTEUS SIMULATION****
+
+![Simulation](images/proteus_simulation.png)
+
 
 ****FEATURES****
 
