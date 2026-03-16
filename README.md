@@ -24,6 +24,53 @@
 ![Simulation](images/proteus_simulation.png)
 
 
+
+****DEFAULT RTC DISPLAY****
+
+![DEFUALT](images/DEFUALT.png)
+
+
+****MAIN CONFIGURATION MENU****
+
+![RTC_MENU](images/RTC_MENU.png)
+
+
+****MEDICINE TIME CONFIGURATION (HOUR SETUP)****
+
+![MEDICINE_HR1](images/MEDICINE_HR1.png)
+
+
+****SET ANOTHER MEDICINE TIME****
+
+![MEDICINE_TESTCASE](images/MEDICINE_TESTCASE.png)
+
+
+****RTC WEEKDAY CONFIGURATION****
+
+![RTC_DAY](images/RTC_DAY.png)
+
+
+****RTC EDIT MENU****
+
+![RTC_MENU](images/RTC_MENU.png)
+
+
+****YEAR CONFIGURATION AND SAVE****
+
+![YEAR_SAVE&EXIT](images/YEAR_SAVE&EXIT.png)
+
+
+****MEDICINE ALERT SCREEN****
+
+![ALARM](images/ALARM.png)
+
+
+****MEDICINE ACKNOWLEDGEMENT MESSAGE****
+
+![MEDICINE_ACK](images/MEDICINE_ACK.png)
+
+
+
 ****FEATURES****
 
         Real-Time Clock display on LCD
