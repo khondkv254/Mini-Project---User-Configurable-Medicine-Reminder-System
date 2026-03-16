@@ -16,58 +16,58 @@
         
 ****BLOCK DAIGRAM****
 
-![Block Diagram](images/block_diagram.png)
+![Block Diagram](image/block_diagram.png)
 
 
 ****PROTEUS SIMULATION****
 
-![Simulation](images/proteus_simulation.png)
+![Simulation](image/proteus_simulation.png)
 
 
 
 ****DEFAULT RTC DISPLAY****
 
-![DEFUALT](images/DEFUALT.png)
+![DEFUALT](image/DEFUALT.png)
 
 
 ****MAIN CONFIGURATION MENU****
 
-![RTC_MENU](images/RTC_MENU.png)
+![RTC_MENU](image/RTC_MENU.png)
 
 
 ****MEDICINE TIME CONFIGURATION (HOUR SETUP)****
 
-![MEDICINE_HR1](images/MEDICINE_HR1.png)
+![MEDICINE_HR1](image/MEDICINE_HR1.png)
 
 
 ****SET ANOTHER MEDICINE TIME****
 
-![MEDICINE_TESTCASE](images/MEDICINE_TESTCASE.png)
+![MEDICINE_TESTCASE](image/MEDICINE_TESTCASE.png)
 
 
 ****RTC WEEKDAY CONFIGURATION****
 
-![RTC_DAY](images/RTC_DAY.png)
+![RTC_DAY](image/RTC_DAY.png)
 
 
 ****RTC EDIT MENU****
 
-![RTC_MENU](images/RTC_MENU.png)
+![RTC_MENU](image/RTC_MENU.png)
 
 
 ****YEAR CONFIGURATION AND SAVE****
 
-![YEAR_SAVE&EXIT](images/YEAR_SAVE&EXIT.png)
+![YEAR_SAVE&EXIT](image/YEAR_SAVE&EXIT.png)
 
 
 ****MEDICINE ALERT SCREEN****
 
-![ALARM](images/ALARM.png)
+![ALARM](image/ALARM.png)
 
 
 ****MEDICINE ACKNOWLEDGEMENT MESSAGE****
 
-![MEDICINE_ACK](images/MEDICINE_ACK.png)
+![MEDICINE_ACK](image/MEDICINE_ACK.png)
 
 
 
