@@ -24,6 +24,10 @@
 ![Simulation](image/proteus_simulation.png)
 
 
+****HARDWARE KIT****
+
+![HW](image/HW.png)
+
 
 ****DEFAULT RTC DISPLAY****
 
