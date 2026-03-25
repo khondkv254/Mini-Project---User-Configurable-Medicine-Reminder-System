@@ -16,7 +16,7 @@
         
 ****BLOCK DAIGRAM****
 
-![Block Diagram](image/block_diagram.png)
+![Block Diagram](image/blockdiagram.png)
 
 
 ****PROTEUS SIMULATION****
